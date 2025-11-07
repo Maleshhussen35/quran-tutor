@@ -1,0 +1,12 @@
+flask
+flask-cors
+openai
+deepface
+opencv-python-headless
+numpy
+pandas
+soundfile
+librosa
+faiss-cpu
+langdetect
+requests

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+*.sqlite3
+*.db
+.ipynb_checkpoints
+*.log
+__MACOSX
+.DS_Store
